@@ -1,4 +1,4 @@
-![Imagem do WhatsApp de 2025-10-20 à(s) 13 36 52_4074bcb8](https://github.com/user-attachments/assets/6da88cb5-d85d-47c7-81bc-c78c32ee9e49)# CP2---Sistema-de-Dados-Robusto
+P2---Sistema-de-Dados-Robusto
 
 Hugo Leonardo Ferreira RM89360 5ECR 
 
